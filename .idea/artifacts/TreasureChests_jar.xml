@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TreasureChests:jar">
+    <output-path>$PROJECT_DIR$/../../Spigot-test/Test Server/plugins</output-path>
+    <root id="archive" name="TreasureChests.jar">
+      <element id="module-output" name="TreasureChests" />
+    </root>
+  </artifact>
+</component>

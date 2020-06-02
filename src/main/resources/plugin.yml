@@ -1,0 +1,10 @@
+name: TreasureChests
+version: ${project.version}
+main: me.marcarrots.treasurechests.TreasureChests
+api-version: 1.13
+prefix: TreasureChests
+authors: [MarCarrot]
+description: Allows admins to create hidden locked chests which players can open if they have the key
+commands:
+  treasurechests:
+    description: Create a treasure chest.
